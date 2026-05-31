@@ -4,6 +4,7 @@
 [![Mathlib](https://img.shields.io/badge/Mathlib-v4.28.0-purple)](https://github.com/leanprover-community/mathlib4)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Proofs](https://img.shields.io/badge/proofs-proven%20%2F%200%20sorry-brightgreen)](MirrorDescent)
+[![Zenodo](https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.20475033-blue)](https://zenodo.org/records/20475033)
 
 **mirror-descent-lean: Formal Proofs of Mirror Descent and Bregman Divergence Convergence in Lean 4**
 
@@ -107,9 +108,9 @@ The mirror update is stated as the **Bregman projection optimality condition** â
 ## Paper
 
 **mirror-descent-lean: Formal Proofs of Mirror Descent and Bregman Divergence Convergence in Lean 4**
-Ben Cassie (2026). *Forthcoming.*
+Ben Cassie (2026). Companion paper: [paper.md](paper.md).
 
-DOI: *forthcoming (Zenodo).*
+DOI: https://doi.org/10.5281/zenodo.20475033
 
 ## Related work
 
